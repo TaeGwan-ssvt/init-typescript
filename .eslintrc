@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@ssvt/eslint-config-react/default",
+    "@ssvt/eslint-config-react/typescript"
+  ]
+}
